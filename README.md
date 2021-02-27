@@ -31,6 +31,7 @@ From these charts, one can conclude that the “green energy” sector performed
 
 ### Original VBA Script & Refactored VBA Script ###
 When we run the original VBA Script, the execution times for year 2017 and year 2018 are:
+
 ![](img/year_2017.png)![](img/year_2018.png)
 
 When we refactored the original VBA script, the execution times for this approach for year 2017 and year 2018 are:
