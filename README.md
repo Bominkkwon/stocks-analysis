@@ -16,8 +16,8 @@ Stocks Analysis - Module 2 Challenge
 Microsoft Excel for Microsoft 365 MSO
 
 ## Overview 
-Steve’s parents have decided to invest all their money into DAQO New Energy Corporation ($DQ). Steve’s concerned about diversifying their funds and wants to analyze a handful of green energy stocks in addition to DAQO stock. He has created an Excel file and we were asked to analyze this dataset by using an extension to Excel built to automate tasks: Visual Basic for Applications. 
-By creating different VBA macro, we were able to find the total daily volume (to measure how actively a stock is traded) and yearly return (to calculate the percentage difference in price from the beginning of the year to the end of the year) for each stock ($DQ, $AY, $CSIQ, $ENPH, $FSLR, $HASI, $JKS, $RUN, $SEDG, $SPWR, $TERP, $VSLR) 
+Steve’s parents have decided to invest all their money into DAQO New Energy Corporation (TICKER:DQ). Steve’s concerned about diversifying their funds and wants to analyze a handful of green energy stocks in addition to DAQO stock. He has created an Excel file and we were asked to analyze this dataset by using an extension to Excel built to automate tasks: Visual Basic for Applications. 
+By creating different VBA macro, we were able to find the total daily volume (to measure how actively a stock is traded) and yearly return (to calculate the percentage difference in price from the beginning of the year to the end of the year) for each stock (TICKER: DQ, AY, CSIQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SPWR, TERP, VSLR). 
 
 ## Analysis
 ### Results ###
