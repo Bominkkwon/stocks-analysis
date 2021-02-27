@@ -29,5 +29,7 @@ From these charts, one can conclude that the “green energy” sector performed
 When we refactored the original VBA script, the execution time for year 2017 was decreased by about .27 and by .06 for year 2018.
 
 Refactoring code could make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code is not always be the best way to accomplish a task. However, sometimes refactoring code process could change the meaning of the original code without one expecting it or make the code less efficient. 
-In this assignment, refactoring the original VBA made the VBA script run faster, which shows that the refactored code was more efficient than the original.  The process was relatively easy and beneficial since the coder for the original VBA script and the refactored one are the same, which means the coder understands the purpose and the meaning of the original code. 
+In this assignment, refactoring the original VBA made the VBA script run faster, which shows that the refactored code was more efficient than the original. The process was relatively easy and beneficial since the coder for the original VBA script and the refactored one are the same, which means the coder understands the purpose and the meaning of the original code. 
+
+
 
