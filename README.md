@@ -28,7 +28,16 @@ To compare the stock performance between 2017 and 2018, we were instructed to cr
 
 From these charts, one can conclude that the “green energy” sector performed better in year 2017 than in year 2018. All stocks except one ($TERP) had positive yearly return in year 2017. In year 2018, $ENPH and $RUN were the only stocks that performed well, and their total daily volume had increased massively. One can also conclude that $AY is a low volatile stock in this dataset since the stock only moved less than +/-10% in both years. 
 
-When we refactored the original VBA script, the execution time for year 2017 was decreased by about .27 and by .06 for year 2018.
+
+### Original VBA Script & Refactored VBA Script ###
+When we run the original VBA Script, the execution times for year 2017 and year 2018 are:
+![](img/year_2017.png)![](img/year_2018.png)
+
+When we refactored the original VBA script, the execution times for this approach for year 2017 and year 2018 are:
+![](Resources/VBA_Challenge_2017.png)![](Resources/VBA_Challenge_2018.png)
+
+
+the execution time for year 2017 was decreased by about .27 and by .06 for year 2018-- the refactoring process allowed execution times to be lowered. 
 
 Refactoring code could make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code is not always be the best way to accomplish a task. However, sometimes refactoring code process could change the meaning of the original code without one expecting it or make the code less efficient. 
 In this assignment, refactoring the original VBA made the VBA script run faster, which shows that the refactored code was more efficient than the original. The process was relatively easy and beneficial since the coder for the original VBA script and the refactored one are the same, which means the coder understands the purpose and the meaning of the original code. 
