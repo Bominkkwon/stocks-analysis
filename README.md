@@ -23,7 +23,7 @@ By creating different VBA macro, we were able to find the total daily volume (to
 ### Results ###
 To compare the stock performance between 2017 and 2018, we were instructed to create this sheet (labeled, “All Stocks Analysis”):
 
-![](img/All_Stocks(2017).png)
+![](img/All_Stocks(2017).png)![](img/All_Stocks(2018).png)
  
 
 From these charts, one can conclude that the “green energy” sector performed better in year 2017 than in year 2018. All stocks except one ($TERP) had positive yearly return in year 2017. In year 2018, $ENPH and $RUN were the only stocks that performed well, and their total daily volume had increased massively. One can also conclude that $AY is a low volatile stock in this dataset since the stock only moved less than +/-10% in both years. 
